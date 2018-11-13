@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/getsentry/raven-go"
+	"github.com/femaref/raven-go"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )
